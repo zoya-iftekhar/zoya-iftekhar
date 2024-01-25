@@ -1,10 +1,8 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="900">  
-<div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zoya-iftekhar.zoya-iftekhar" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zoya+Iftekhar!;"/>
 </h1>
-</div>
 <h3 align="center">A passionate software developer.</h3>
 <br><br>
 <br/>
