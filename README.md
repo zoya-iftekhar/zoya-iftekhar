@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zoya-iftekhar.zoya-iftekhar" />
-
+![octocat-1706181945803](https://github.com/zoya-iftekhar/zoya-iftekhar/assets/99093347/3af19d13-4e15-416f-97ac-1fe56942d452)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zoya+Iftekhar!;" />
 </h1>
@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software developer.</h3>
 
 <br/>
-![octocat-1706181945803](https://github.com/zoya-iftekhar/zoya-iftekhar/assets/99093347/3af19d13-4e15-416f-97ac-1fe56942d452)
+
 
 <div align="center">
  
