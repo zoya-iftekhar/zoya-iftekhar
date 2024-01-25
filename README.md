@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **MLOps, AWS**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact about me **I am very creative.**
 
  </div>
  
