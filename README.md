@@ -7,6 +7,7 @@
 <h3 align="center">A passionate software developer.</h3>
 
 <br/>
+![octocat-1706181945803](https://github.com/zoya-iftekhar/zoya-iftekhar/assets/99093347/3af19d13-4e15-416f-97ac-1fe56942d452)
 
 <div align="center">
  
@@ -41,7 +42,7 @@
 
 <br/>
 <hr/>
-![Uploading octocat-1706181945803.png…]()
+
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
