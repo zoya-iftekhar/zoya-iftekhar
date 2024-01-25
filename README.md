@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **MLOps, AWS**
 
-⚡ Fun fact about me **I am very creative.**
+⚡ Fact about me: **I am creative and love designing.**
 
  </div>
  
