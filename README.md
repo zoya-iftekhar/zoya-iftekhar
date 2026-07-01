@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zoya-iftekhar.zoya-iftekhar" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+👋;+I'm+Zoya+Iftekhar;I+build+AI+systems+and+automation;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+👋;+I'm+Zoya+Iftekhar;I+build+AI+and+Automation+systems;"/>
 </h1>
 
 <h3 align="center">AI • GenAI • Automation • Systems</h3>
